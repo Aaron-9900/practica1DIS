@@ -9,3 +9,10 @@ n
 d
 o
 
+Escenario 1: git checkout master
+Escenario 2: 
+    1. Creamos el commit con los cambios
+    2. git branch 'nombre de rama'
+    3. git checkout master
+    4. git merge 'nombre rama'
+    5. Solucionar conflictos que puedan aparecer
